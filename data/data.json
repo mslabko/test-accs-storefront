@@ -7,26 +7,10 @@
       "items":
       [
         {
-          "name": "Aurora",
-          "url": "aurora",
+          "name": "All",
+          "url": "all",
           "id": "55",
-          "children":
-          [
-            {
-              "name": "Battery",
-              "url": "battery/aurora-nexus-battery-premium",
-              "id": "66",
-              "properties":
-              [
-                {
-                  "propname": "Display",
-                  "propvalue": "yes"
-                }
-              ],
-              "children":
-              []
-            }
-          ]
+          "children":[]
         },
         {
           "name": "Testing Products",
