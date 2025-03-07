@@ -5,5 +5,5 @@ mountpoints:
 
 folders:
   /products/: /products/default
-  /aurora: /categories/default
+  /all: /categories/default
   /test: /categories/default
